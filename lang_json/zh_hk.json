@@ -50,10 +50,10 @@
   "item.crabbersdelight.pearl": "珍珠",
   "item.crabbersdelight.can": "罐",
   "item.crabbersdelight.coral_fragments": "珊瑚碎片",
-  "item.minecraft.potion.effect.inky_potion": "墨水藥水",
-  "item.minecraft.splash_potion.effect.inky_potion": "墨水濺射藥水",
-  "item.minecraft.lingering_potion.effect.inky_potion": "墨水滯留藥水",
-  "item.minecraft.tipped_arrow.effect.inky_potion": "墨水箭矢",
+  "item.minecraft.potion.effect.inky_potion": "墨盲藥水",
+  "item.minecraft.splash_potion.effect.inky_potion": "墨盲濺射藥水",
+  "item.minecraft.lingering_potion.effect.inky_potion": "墨盲滯留藥水",
+  "item.minecraft.tipped_arrow.effect.inky_potion": "墨盲箭矢",
 
   "item.crabbersdelight.bucket_of_crab_chum": "螃蟹餌桶",
   "item.crabbersdelight.bucket_of_clawster_chum": "龍蝦餌桶",
@@ -86,7 +86,7 @@
   "entity.crabbersdelight.crab": "螃蟹",
   "crabbersdelight.advancement.root": "蟹農樂事",
   "crabbersdelight.advancement.root.desc": "一場海鮮冒險等住你！",
-  "crabbersdelight.advancement.craft_crab_trap": "陷阱！",
+  "crabbersdelight.advancement.craft_crab_trap": "蟹阱！",
   "crabbersdelight.advancement.craft_crab_trap.desc": "用繩子、木板同木棍製作你嘅第一個捕蟹籠",
   "crabbersdelight.advancement.cook_crustaceans": "甲殼類煮食站",
   "crabbersdelight.advancement.cook_crustaceans.desc": "喺煮食鍋煮螃蟹、蝦同龍蝦",
@@ -106,4 +106,3 @@
   "crabbersdelight.advancement.glow_squid_killer.desc": "用刀子從發光魷魚身上獲取發光魷魚觸手",
   "crabbersdelight.block.crab_trap.not_waterlogged": "捕蟹籠必須放喺水入面"
 }
-
