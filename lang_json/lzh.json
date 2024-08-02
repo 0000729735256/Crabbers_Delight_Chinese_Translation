@@ -1,5 +1,5 @@
 {
-    "itemGroup.crabbersdelight": "蟹將樂園",
+    "itemGroup.crabbersdelight": "蟹農樂事",
     "item.crabbersdelight.crab": "蟹",
 
     "item.crabbersdelight.cooked_crab": "蟹炙",
@@ -12,10 +12,10 @@
 
     "item.crabbersdelight.raw_clam_meat": "生蛤肉",
     "item.crabbersdelight.cooked_clam_meat": "蛤炙",
-    "item.crabbersdelight.raw_squid_tentacles": "生魷魚足",
+    "item.crabbersdelight.raw_squid_tentacles": "生魷魚须",
 
     "item.crabbersdelight.cooked_squid_tentacles": "魷炙",
-    "item.crabbersdelight.raw_glow_squid_tentacles": "生光魷魚足",
+    "item.crabbersdelight.raw_glow_squid_tentacles": "生光魷魚须",
     "item.crabbersdelight.cooked_glow_squid_tentacles": "光魷炙",
     "item.crabbersdelight.raw_frog_leg": "生蛙腿",
 
@@ -36,7 +36,7 @@
     "item.crabbersdelight.cooked_tropical_fish_slice": "熱帶魚炙",
     "item.crabbersdelight.pufferfish_slice": "河豚魚片",
     "item.crabbersdelight.cooked_pufferfish_slice": "河豚魚炙",
-    "item.crabbersdelight.bisque": "海鮮濃湯",
+    "item.crabbersdelight.bisque": "法式貝羮",
     "item.crabbersdelight.seafood_gumbo": "海鮮燴",
     "item.crabbersdelight.stuffed_nautilus_shell": "填魷魚殼",
     "item.crabbersdelight.shrimp_fried_rice": "蝦炒飯",
@@ -84,9 +84,9 @@
     "block.crabbersdelight.pearl_block": "珍珠塊",
 
     "entity.crabbersdelight.crab": "蟹",
-    "crabbersdelight.advancement.root": "蟹將樂園",
+    "crabbersdelight.advancement.root": "蟹農樂事",
     "crabbersdelight.advancement.root.desc": "海鮮冒險待君至！",
-    "crabbersdelight.advancement.craft_crab_trap": "蟹阱已成",
+    "crabbersdelight.advancement.craft_crab_trap": "陷阱已成",
     "crabbersdelight.advancement.craft_crab_trap.desc": "以繩、石板、棍造蟹陷阱",
     "crabbersdelight.advancement.cook_crustaceans": "甲殼烹飪處",
     "crabbersdelight.advancement.cook_crustaceans.desc": "以烹飪鍋煮蟹、蝦、螯",
@@ -100,10 +100,10 @@
     "crabbersdelight.advancement.frog_killer.desc": "用刀取蛙腿",
     "crabbersdelight.advancement.squid_killer": "深海屠夫",
 
-    "crabbersdelight.advancement.squid_killer.desc": "用刀取魷魚足",
+    "crabbersdelight.advancement.squid_killer.desc": "用刀取魷魚须",
     "crabbersdelight.advancement.glow_squid_killer": "更深海屠夫",
 
-    "crabbersdelight.advancement.glow_squid_killer.desc": "用刀取光魷魚足",
+    "crabbersdelight.advancement.glow_squid_killer.desc": "用刀取光魷魚须",
     "crabbersdelight.block.crab_trap.not_waterlogged": "蟹陷阱需水中"
 }
 
