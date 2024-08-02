@@ -64,7 +64,7 @@
   "item.crabbersdelight.crab_spawn_egg": "螃蟹 生怪蛋",
   "item.crabbersdelight.crab_bucket": "螃蟹桶",
 
-  "block.crabbersdelight.crab_trap": "螃蟹陷阱",
+  "block.crabbersdelight.crab_trap": "捕蟹籠",
   "block.crabbersdelight.crab_barrel": "螃蟹桶",
   "block.crabbersdelight.clam_barrel": "蛤蜊桶",
   "block.crabbersdelight.clawster_barrel": "龍蝦桶",
@@ -87,7 +87,7 @@
   "crabbersdelight.advancement.root": "蟹味珍饈",
   "crabbersdelight.advancement.root.desc": "一場海鮮冒險在等待你！",
   "crabbersdelight.advancement.craft_crab_trap": "這是一個陷阱！",
-  "crabbersdelight.advancement.craft_crab_trap.desc": "使用繩索、台階和木棍製作你的第一個螃蟹陷阱",
+  "crabbersdelight.advancement.craft_crab_trap.desc": "使用繩索、台階和木棍製作你的第一個捕蟹籠",
   "crabbersdelight.advancement.cook_crustaceans": "甲殼類烹飪站",
   "crabbersdelight.advancement.cook_crustaceans.desc": "通過在烹飪鍋中煮螃蟹、蝦和龍蝦來烹飪",
   "crabbersdelight.advancement.get_pearl": "甜美的珍珠！",
@@ -104,6 +104,6 @@
   "crabbersdelight.advancement.glow_squid_killer": "更深海的殺手",
 
   "crabbersdelight.advancement.glow_squid_killer.desc": "使用刀子從發光魷魚身上取回發光魷魚觸手",
-  "crabbersdelight.block.crab_trap.not_waterlogged": "螃蟹陷阱必須在水中"
+  "crabbersdelight.block.crab_trap.not_waterlogged": "捕蟹籠必須在水中"
 }
 
